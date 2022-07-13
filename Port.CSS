@@ -226,6 +226,7 @@ section .title::after{
     object-fit: cover;
     border-radius: 6px;
 }
+
 /*  sessão equipe  */
 .teams .title::after{
     content: "Especializada";
